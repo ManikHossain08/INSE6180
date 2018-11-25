@@ -1,0 +1,21 @@
+/----------------------------
+  References
+----------------------------/
+
+>> https://stat.ethz.ch/R-manual/R-devel/library/base/html/regex.html -- For Regex Logic
+
+>> https://stackoverflow.com/questions/42637099/difference-between-the-and-in-operators-in-r -- To Understand %in% operator
+
+>> https://stackoverflow.com/questions/35790652/removing-words-featured-in-character-vector-from-string -- For Removing StopWords Logic
+
+>> http://xpo6.com/list-of-english-stop-words/ -- Getting StopWords Dictionary
+
+>> R Slack community --- Chunks Logic [ Mod Concept with Sequence of Numbers ]
+
+>> iconv(review, to = "ASCII//TRANSLIT") --- Idea From PHP Project
+
+>> https://stackoverflow.com/questions/24938616/string-split-on-last-comma-in-r - To Split Text Based On Last Comma
+
+>> https://medium.com/technology-nineleaps/logistic-regression-gradient-descent-optimization-part-1-ed320325a67e -- Basics of Logistic Regression
+
+>> https://cseweb.ucsd.edu/classes/wi17/cse258-a/reports/a055.pdf -- Research Paper To Understand Logistic Regression 
